@@ -1,0 +1,2 @@
+Thanks for checking out my IRC-Bot. This irc bot is very simple, all that it does is connect to your desired channel and creates a new text file logging all the data
+that the irc channel recieves while its idle in the chat.
