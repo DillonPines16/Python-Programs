@@ -3,9 +3,9 @@ import os
 import random
 import uuid
 
-channel = "#freebsd"
-server = "irc.freenode.net"
-nickname = "PickleRick"
+channel = "" ## Insert the IRC channel you would like to connect to.
+server = "" ## Insert the server you would like to connect to.
+nickname = "" ## Insert your desired username.
 
 randFile = str(uuid.uuid4())
 textFile = ".txt"
